@@ -16,7 +16,7 @@ cifar10-project/
 ├── tensorboard_accuracy.png    # 准确率曲线
 ├── tensorboard_lr.png          # 学习率曲线
 ├── gradio_demo.png             # Web 界面截图
-└── resnet_result.png           # ResNet 结果截图
+├── resnet_result.png           # ResNet 结果截图
 └── prediction_example          # 预测示例图结果
 ```
 
